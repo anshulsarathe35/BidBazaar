@@ -121,12 +121,4 @@ The platform has been built using modern web technologies and a variety of progr
 
 Thank you for using Bid-Bazaar. We hope you enjoy using our platform for all your auction needs!
 
-### Created By TSEC Team - 3
 
--   Siddharth Nachane
--   Prateek Vishwakarma
--   Archit Rathod
--   Veer Pariawala
--   Prasad Ranjane
--   Nahush Patil
--   Swapnil Vishwakarma
