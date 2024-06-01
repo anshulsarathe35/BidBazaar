@@ -112,7 +112,7 @@ The platform has been built using modern web technologies and a variety of progr
 
 ### How to run the application:
 
-1.  Clone the repository from GitHub. `git clone https://github.com/Archit1706/TIAA-Hackathon-Nextjs.git`
+1.  Clone the repository from GitHub.
 2.  Install the required dependencies using npm or yarn. `npm install`
 3.  Set up a Cloudinary account and configure the Cloudinary API key and secret in the .env file.
 4.  Start the backend server you are using npm or yarn.
